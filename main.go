@@ -14,5 +14,5 @@ import (
 
 func main() {
 
-	generativemodel, err := generative.InitializeGenerativeModel() 
+	generativemodel,err := generative.InitializeGenerativeModel() 
 }
